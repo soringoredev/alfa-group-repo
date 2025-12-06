@@ -4,7 +4,7 @@ public class StartGit {
         System.out.println("Sorin Gore");
 
         //Igor
-
+        System.out.println("Igor Vrabie");
 
         // Catalin
 
