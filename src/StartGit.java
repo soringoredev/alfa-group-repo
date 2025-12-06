@@ -13,6 +13,7 @@ public class StartGit {
         System.out.println("Nadea Avstriischii");
 
         // Cristina
+        System.out.println("Cristina Pruteanu");
 
 
         // Carolina
